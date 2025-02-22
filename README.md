@@ -2,8 +2,17 @@
 This project is a basic blog system where users can view all posts, view a single post, and add new posts.
 
 # PreView
+ADD NEW POST-
+
 <img src="Add New Post.png" alt="Preview1" width="700">
+
+BLOG POST-
+
 <img src="Blog Post.png" alt="Preview2" width="700">
+
+VIEW POST-
+
+<img src="View Post.png" alt="Preview2" width="700">
 
 # How to Use
 
